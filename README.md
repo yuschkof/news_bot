@@ -1,4 +1,4 @@
-# Перевеод статей с TechCrunch
+# Перевод статей с TechCrunch
 
 Данные берутся с сайта [TechCrunch](https://techcrunch.com/)
 
